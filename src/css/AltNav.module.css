@@ -1,0 +1,23 @@
+.Link {
+  display: none !important;
+}
+
+.Treehouse {
+  font-family: Ropa Sans;
+  font-style: italic;
+  font-weight: 500;
+  font-size: 38px;
+
+  margin-left: auto;
+  margin-right: auto;
+
+  color: #000000;
+}
+
+@media (max-width: 899px) {
+  .Treehouse {
+    padding-left: 0px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+}

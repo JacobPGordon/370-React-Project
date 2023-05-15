@@ -1,0 +1,26 @@
+.body {
+    margin: 0;
+    padding: 0;
+}
+
+.form {
+    position: relative;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    margin-left: 50%;
+}
+
+.addCommentSection {
+    text-align: left;
+    background-color: transparent;
+    border-radius: 5px;
+    padding: 10px;
+    margin: 10px;
+    border-style: none;
+    border-color: none;
+    box-shadow: 0.5px 1px 5px rgba(0,0,0, .1);
+    width: 585px;
+    display: inline-flex;
+    overflow: auto;
+}

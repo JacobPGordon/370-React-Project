@@ -1,0 +1,124 @@
+/* Registration Page - Confirmation - Erick */
+/*
+position: relative;
+width: 1440px;
+height: 1024px;
+
+background: #C1F0C1;
+*/
+
+/* Title */
+.treehouse{
+    position: absolute;
+    width: 496px;
+    height: 29px;
+    left: 520px;
+    top: 99px;
+
+    font-family: 'Ropa Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 96px;
+    line-height: 103px;
+
+    color: #000000;
+}
+
+
+/* Confirmation Text */
+/*
+position: absolute;
+width: 944px;
+height: 83px;
+left: 229px;
+top: 352px;
+*/
+
+
+/* We have sent an email with a confirmation link to your email address. */
+.emailAddressText{
+    position: absolute;
+    text-align: center;
+    left: 14.41%;
+    right: 10.38%;
+    bottom: 53.99%;
+
+    font-family: Trebuchet MS, sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 39px;
+
+    color: #000000;
+}
+
+
+/* Please allow 5-10 minutes for this message to arrive. */
+.arrivalText{
+    position: absolute;
+    left: 14.41%;
+    right: 10.38%;
+    top: 41.01%;
+    bottom: 0%;
+    text-align: center;
+
+    font-family: Trebuchet MS, sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 39px;
+    /* identical to box height */
+
+    color: #000000;
+}
+
+
+/* Home Button */
+
+/*position: absolute;
+width: 861px;
+height: 137px;
+left: 271px;
+top: 639px;*/
+
+
+
+/* Rectangle 5 */
+.positionButton{
+    border-radius: 50px;
+    /* justify-content: center;
+    align-items: center; */
+    cursor: pointer;
+    text-transform: uppercase;
+    background-color: #6d9f71;
+    border: 1px solid #6d9f71;
+    color: #fbf5f3;
+    font-size: 30px;
+    width: 500px;
+    height: 80px;
+    /* left: 14.41%;
+    right: 10.38%;
+    bottom: 53.99%; */
+    /* margin-top: 30px; */
+
+    /* box-shadow: rgba(0, 0, 0, 0.17) 0px -23px 25px 0px inset,
+        rgba(0, 0, 0, 0.15) 0px -36px 30px 0px inset,
+        rgba(0, 0, 0, 0.1) 0px -79px 40px 0px inset; */
+}
+
+/* Click here to proceed to the home page! */
+/*
+position: absolute;
+left: 6.74%;
+right: 10.69%;
+top: 31.39%;
+bottom: 31.39%;
+
+font-family: 'Ropa Sans';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 51px;
+
+color: #FFFFFF;
+*/

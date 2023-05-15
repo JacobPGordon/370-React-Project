@@ -1,0 +1,122 @@
+/*import fonts*/
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
+/*body - current background*/
+/*add the changes*/
+.body {
+    background-color: #FBF5F3 !important;
+    margin: 0 !important;
+    padding: 0 !important;
+    font-family: 'Poppins', sans-serif;
+}
+
+.posting {
+    margin-top: 3%;
+    margin-left: 25%;
+    padding: 1%;
+    display: inline-flex;
+    position: relative;
+    background-position: contain;
+    box-shadow: 0.5px 0.2px 5px rgba(0,0,0, .1);
+}
+
+.labels {
+    margin-left: 35%;
+    
+}
+
+.submit {
+    font-family: 'Poppins', sans-serif;
+    background-color: #60A561 !important;
+    color: white;
+    width: 100px;
+    text-align: center;
+    height: 50px;
+    font-size: 20px;
+    margin-left: 40%;
+    margin-top: 1%;
+    border-radius: 2px;
+    transition: all 0.5s ease-in-out;
+    border: none !important;
+    box-shadow: 0.1px 0.3px 6px 2px rgba(0,0,0, .1);
+}
+
+.submit:hover {
+    cursor: pointer;
+    opacity: 1;
+    background-color: #95D896 !important;
+}
+
+.postlist {
+    text-align: left;
+    background-color: transparent;
+    border-radius: 5px;
+    padding: 10px;
+    margin: 10px;
+    border-style: none;
+    border-color: none;
+    box-shadow: 0.5px 0.2px 5px rgba(0,0,0, .1);
+    width: 585px;
+    display: inline-flex;
+    overflow: auto;
+  }
+
+  .deletePost {
+      margin-top: 1%;
+      border-bottom: 0.5px solid black;
+  }
+
+  .deleteIcon:hover{
+    cursor: pointer;
+  }
+
+  .editIcon:hover{
+    cursor: pointer;
+  }
+
+  .cancelEdit{
+    color: red;
+  }
+  
+  .submitEditButton{
+    color:#60A561;
+  }
+
+  .postBody {
+      background-color: #95D896;
+  }
+
+  .dropbtn {
+    background-color: #60A561;
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+    padding: 10px;
+    font-size: 20px;
+    border: none;
+  }
+  
+  .dropdown {
+    position: relative;
+    display: inline-block;
+  }
+  
+  .dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f1f1f1;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+  }
+  
+  .dropdown-content a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+  }
+  
+  .dropdown-content a:hover {background-color: #ddd;}
+  
+  .dropdown:hover .dropdown-content {display: block;}
+  
+  .dropdown:hover .dropbtn {background-color: #95D896;}

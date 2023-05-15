@@ -1,0 +1,18 @@
+-The JS'
+
+-Repo at https://github.com/CSE370HCI/hci-social-frontend
+
+-Zenhub page at https://app.zenhub.com/workspaces/cse370-js-6209a6caa0683d00152f4551/board?invite=true
+
+-If two or more team members are unable to reach a decision via discussion, our team will decide who wins the dispute via a random-number generator, to reduce bias and speedily
+resolve any conflict.
+
+-Treehouse will be a social tool that allow its users to find people in their area that share their hobbies so they can either hang out in person or talk about their shared
+interests over the app. Various hobbies will be represented as "branches" off of the main trunk of the site, each one with their own following userbase. Users, or "leaves" can join
+whatever branches they're interested in, chatting online with their peers using a forum style interface. Treehouse will also include an optional locational system that lets people
+in the same branch find out if they're close to one another so they can hang out in real life or work on a project in person.
+
+-The average user of Treehouse will be a casual hobbyist who likes sharing their work with other likeminded people and chatting about their field of interest. They'd be able to 
+participate in multiple branches to cover all of their interests, ensuring they stay connected with all of the communities they're a member of while having tons of fun
+meeting new people. If they want, they can even find new friends to meet face to face using the app's location finding feature; they can find help for a physical project
+more easily, or just have fun showing off their work in person. 

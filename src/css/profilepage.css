@@ -1,0 +1,621 @@
+/*import font*/
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display&family=Poppins:wght@300&display=swap');
+
+.body {
+  /*position: relative;
+    width: 1440px;
+    height: 1024px;*/
+    background: #C1F0C1 !important;
+}
+
+/* Content */
+.content {
+  position: absolute;
+  width: 1284.37px;
+  height: 703.97px;
+  left: 78.1px;
+  top: 259.74px;
+}
+
+/* mutal branches */
+.branches {
+  position: absolute;
+  left: 0.02%;
+  right: 53.22%;
+  top: 0%;
+  bottom: 52.51%;
+}
+
+/* update user's username */
+.updateUser {
+  display: inline-flex;
+  position: relative;
+  background-color: transparent !important;
+  font-family: 'Playfair Display', serif;
+  margin-left: 15%;
+  margin-top: 5%;
+  font-size: 40px;
+  color: white;
+  text-shadow: 0px 5px 10px rgba(0, 0, 0, .3);
+}
+/* Rectangle 16 */
+.branchesBox {
+  position: absolute;
+  left: 0.02%;
+  right: 53.22%;
+  top: 0%;
+  bottom: 52.51%;
+
+  background: #946e45;
+  border: 2px solid #000000;
+  box-sizing: border-box;
+  border-radius: 25px;
+}
+
+/* Branches that you are in OR If you are looking at someone else’s profile, mutual branches/branches they are in */
+.branchesText {
+  position: absolute;
+  left: 4.96%;
+  right: 58.16%;
+  top: 8.35%;
+  bottom: 60.86%;
+
+  font-family: Ropa Sans;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 40px;
+  line-height: 43px;
+  text-align: center;
+
+  color: #ffffff;
+}
+
+/*profile form*/
+.profileform label {
+  display: block;
+}
+
+/* events */
+.events {
+  position: absolute;
+  left: 53.14%;
+  right: 0.1%;
+  top: 0%;
+  bottom: 52.51%;
+}
+
+/* Rectangle 17 */
+.eventsBox {
+  position: absolute;
+  left: 53.14%;
+  right: 0.1%;
+  top: 0%;
+  bottom: 52.51%;
+
+  background: #946e45;
+  border: 2px solid #000000;
+  box-sizing: border-box;
+  border-radius: 25px;
+}
+
+/* Events that you are going to (has option to show or not to show) */
+.eventsText {
+  position: absolute;
+  left: 59.55%;
+  right: 4.55%;
+  top: 14.58%;
+  bottom: 67.09%;
+
+  font-family: Ropa Sans;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 40px;
+  line-height: 43px;
+  text-align: center;
+
+  color: #ffffff;
+}
+
+/* friends list */
+.friendsList {
+  position: absolute;
+  left: 0%;
+  right: 0.13%;
+  top: 51.35%;
+  bottom: 26.26%;
+}
+
+/* Rectangle 18 */
+.friendsListBox {
+  position: absolute;
+  left: 0%;
+  right: 0.13%;
+  top: 51.35%;
+  bottom: 26.26%;
+
+  background: #946e45;
+  border: 2px solid #000000;
+  box-sizing: border-box;
+  border-radius: 24px;
+}
+
+/* Friends List */
+.friendsListText {
+  position: absolute;
+  left: 36.15%;
+  right: 36.23%;
+  top: 56.38%;
+  bottom: 31.28%;
+
+  font-family: Ropa Sans;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 80px;
+  line-height: 86px;
+
+  color: #ffffff;
+}
+
+/* most recent post */
+.posts {
+  position: absolute;
+  left: 0.13%;
+  right: 0%;
+  top: 77.6%;
+  bottom: 0%;
+}
+
+/* Rectangle 19 */
+.postsBox {
+  position: absolute;
+  left: 0.13%;
+  right: 0%;
+  top: 77.6%;
+  bottom: 0%;
+
+  background: #946e45;
+  border: 2px solid #000000;
+  box-sizing: border-box;
+  border-radius: 24px;
+}
+
+/* Most Recent Post */
+.postsText {
+  position: absolute;
+  left: 29.51%;
+  right: 29.38%;
+  top: 82.69%;
+  bottom: 5.09%;
+
+  font-family: Ropa Sans;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 80px;
+  line-height: 86px;
+  /* identical to box height */
+
+  color: #ffffff;
+}
+
+/* Friend */
+
+/*position: absolute;
+width: 251px;
+height: 54px;
+left: 1188px;
+top: 970px;*/
+
+/* Vector */
+
+/*position: absolute;
+left: 33.86%;
+right: 41.43%;
+top: 7.41%;
+bottom: 50%;
+
+background: #FFFFFF;
+mix-blend-mode: normal;
+border: 1px solid #000000;
+box-sizing: border-box;*/
+
+/* Component 1 */
+
+/*position: absolute;
+left: 0%;
+right: 0%;
+top: 40.74%;
+bottom: 0%;
+
+border-radius: 20px;*/
+
+/* Group 1 */
+
+/*position: absolute;
+left: 0%;
+right: 0%;
+top: 3.12%;
+bottom: 0%;*/
+
+/* Rectangle 3 */
+
+/*position: absolute;
+left: 0%;
+right: 0%;
+top: 3.12%;
+bottom: 0%;
+
+background: #946E45;
+border: 2px solid #000000;
+border-radius: 20px;*/
+
+/* Friends */
+
+/*position: absolute;
+left: 2.79%;
+right: 2.79%;
+top: 0%;
+bottom: 0%;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 28px;
+text-align: center;
+
+color: #F2F2F2;*/
+
+/* Line 3 */
+
+/*position: absolute;
+visibility: hidden;
+left: 0%;
+right: 0%;
+top: 100%;
+bottom: 0%;
+
+border: 1px solid #000000;
+transform: rotate(-0.23deg);*/
+
+/* Header */
+
+/*position: absolute;
+width: 1440px;
+height: 177.5px;
+left: 0px;
+top: 76px;*/
+
+/* Rectangle 13 */
+.coverImage {
+  position: absolute;
+  width: 100vw;
+  height: 190px;
+  left: 0px;
+  margin-top: 0%;
+  object-fit: cover;
+
+  background: #339966;
+}
+
+/* pfp icon */
+.profilePicture {
+  position: absolute;
+  width: 140.67px;
+  height: 140.67px;
+  left: 8.56px;
+  margin-top: 3%;
+}
+
+/* Ellipse 14 */
+.profileImage {
+  position: absolute;
+  width: 140.67px;
+  height: 140.67px;
+  left: 8.56px;
+  margin-top: 1.5%;
+
+  background: #b3e6cc;
+}
+
+/* Name of User */
+.username {
+  position: absolute;
+  width: 153px;
+  height: 32px;
+  margin-left: 10%;
+  margin-top: 7%;
+
+  font-family: Ropa Sans;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 30px;
+  line-height: 32px;
+  text-align: center;
+  background-color: #339966 !important;
+
+  color: black;
+}
+
+/* add friend button */
+.addFriendPosition {
+  position: absolute;
+  width: 152.8px;
+  height: 30.58px;
+  left: 326.79px;
+  top: 218.26px;
+}
+
+/* Rectangle 27 */
+.addFriendButton {
+  position: absolute;
+  width: 152.8px;
+  height: 30.58px;
+  left: 326.79px;
+  top: 218.26px;
+
+  background: #946e45;
+  border: 2px solid #000000;
+  box-sizing: border-box;
+  border-radius: 24px;
+}
+
+/* + Add Friend */
+
+/*position: absolute;
+width: 110px;
+height: 26px;
+left: 348.19px;
+top: 220.55px;
+
+font-family: Ropa Sans;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 26px;
+/* identical to box height */
+
+/*color: #FFFFFF;
+
+
+
+/* Topbar */
+/*
+position: absolute;
+width: 1440px;
+height: 506px;
+left: 0px;
+top: 0px;
+*/
+
+/* Line Break */
+/*
+position: absolute;
+width: 1440px;
+height: 0px;
+left: 0px;
+top: 76px;
+
+border: 1px solid #000000;
+transform: rotate(0.08deg);
+*/
+
+/* Treehouse */
+.treehouse {
+  position: absolute;
+  width: 154px;
+  height: 39px;
+  left: 24px;
+  top: 19px;
+
+  font-family: Ropa Sans;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 38px;
+  line-height: 41px;
+
+  color: #000000;
+}
+
+/* DPP */
+.smallPFPPosition {
+  position: absolute;
+  width: 62px;
+  height: 62px;
+  left: 1125px;
+  top: 7px;
+
+  /*filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));*/
+}
+
+/* Ellipse 2 */
+.smallPFPImage {
+  position: absolute;
+  left: 0%;
+  right: 0%;
+  top: 0%;
+  bottom: 0%;
+
+  background: #c1f0c1;
+  border: 1px solid #339966;
+}
+
+/* DPP */
+/*
+position: absolute;
+left: 14.52%;
+right: 16.13%;
+top: 3.23%;
+bottom: 25.81%;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 14px;
+line-height: 16px;
+text-align: center;
+
+color: #000000;*/
+
+/* Search Bar */
+.searchBarPosition {
+  position: absolute;
+  width: 739px;
+  height: 47px;
+  left: 350px;
+  top: 12px;
+}
+
+/* Component 3 */
+/*
+position: absolute;
+width: 739px;
+height: 47px;
+left: 350px;
+top: 12px;
+
+border-radius: 203px;*/
+
+/* Rectangle 2 */
+.searchBarSize {
+  /* position: absolute; */
+  /*left: 0%;
+    right: 0%;
+    top: 0%;
+    bottom: 0%;*/
+
+  width: 979px;
+  height: 47px;
+  left: 350px;
+  top: 12px;
+
+  background: #ffffff;
+  border: 1px solid #339966;
+  border-radius: 20px;
+}
+
+/* Search */
+/*
+position: absolute;
+left: 6.22%;
+right: 83.22%;
+top: 17.02%;
+bottom: 17.02%;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 28px;
+
+color: #000000;
+*/
+
+/* Ellipse 3 */
+/*
+position: absolute;
+left: 1.62%;
+right: 95.67%;
+top: 21.28%;
+bottom: 36.17%;
+
+background: #D8BA8E;*/
+
+/* Line 2 */
+/*
+position: absolute;
+width: 13.45px;
+height: 0px;
+left: 376.5px;
+top: 37.5px;
+
+border: 3px solid #D8BA8E;
+transform: rotate(41.99deg);
+*/
+
+/* Notification Button */
+.notificationButtonPosition {
+  position: absolute;
+  width: 60px;
+  height: 62px;
+  left: 200px;
+  top: 8px;
+
+  filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+}
+
+/* Ellipse 5 */
+.notificationButton {
+  position: absolute;
+  left: 0%;
+  right: 0%;
+  top: 0%;
+  bottom: 0%;
+
+  background: #c1f0c1;
+  border: 1px solid #339966;
+  box-sizing: border-box;
+}
+
+/* image 1 */
+.notificationImage {
+  position: absolute;
+  left: 16.67%;
+  right: 16.67%;
+  top: 17.74%;
+  bottom: 27.42%;
+
+  /*background: url(image.png);*/
+}
+
+/* Variant Box */
+/*
+position: absolute;
+width: 75px;
+height: 75px;
+left: 1365px;
+top: 0px;
+*/
+
+/* Drop Down */
+/*
+position: absolute;
+width: 244px;
+height: 499px;
+left: 1187px;
+top: 7px;*/
+
+/* Group 2 */
+/*
+position: absolute;
+left: 75.41%;
+right: 0%;
+top: 0%;
+bottom: 87.98%;
+
+filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+*/
+
+/* Rectangle 9 */
+/*
+position: absolute;
+left: 75.41%;
+right: 0%;
+top: 0%;
+bottom: 87.98%;
+
+background: #946E45;
+border: 1px solid #000000;
+border-radius: 2px;
+*/
+
+/* Vector 1 */
+/*
+position: absolute;
+left: 91.39%;
+right: -2.05%;
+top: 3.41%;
+bottom: 92.99%;
+
+border: 5px solid #FFFFFF;
+transform: rotate(90deg);
+*/
